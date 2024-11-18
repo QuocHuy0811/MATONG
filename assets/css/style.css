@@ -75,6 +75,10 @@ html {
     width: calc(100%/3);
 }
 
+.col-forth {
+    width: calc(100%/4);
+}
+
 .mt-8 {
     margin-top: 8px !important;
 }
